@@ -1,5 +1,6 @@
-## Hi there 👋
-
+# Hello World!
+This is my first time go learn go
+i can do it
 <!--
 **lll-peanut/lll-peanut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
