@@ -1,6 +1,5 @@
-# Hello World!
-This is my first time go learn go
-i can do it
+#记录学习golang
+## 该仓库仅为记录学习的过程
 <!--
 **lll-peanut/lll-peanut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
